@@ -1,7 +1,13 @@
-# Tableau-visualization-
+# What is Tableau
+Tableau is a visual analytics platform which provide a pictorial and graphical representation of data
+highly used in the business intelligence to tranform and change raw data into actionable insight with speed and ease  without coding and technical skills 
 
+## What is tableau used for?
+Tableau is a data visualization tool to analyze struscture data of any type and produce interactive graph , report and dashboard 
+Tableau allows you to ask rapid questions for your data and let you create and modify live charts, dashboards and reports in minutes
+Tableau discover relationships, understand results, find patterns, uncover structure, locate outliers, and summarize findings in datas
 
-# Overview -
+# Overview 
 The management wishes to know of any insight to be gained from this dataset and area to focus on.  
 
 ## The dataset-
